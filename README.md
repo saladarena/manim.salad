@@ -12,3 +12,5 @@ Ubuntu/Debian: sudo apt install libcairo2-dev pkg-config python3-dev
 
 
 sudo apt install libpango1.0-dev -y
+
+apt install ffmpeg
